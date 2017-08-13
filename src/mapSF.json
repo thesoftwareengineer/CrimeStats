@@ -1,0 +1,20 @@
+{
+	"cityName": "San Francisco, CA",
+	"neighborhoods": {
+		"FD": "Financial District",
+		"PH": "Potrero Hill",
+		"CH": "Chinatown",
+		"RH": "Polk/Russian Hill (Nob Hill)",
+		"IE": "Ingelside-Excelsior",
+		"NV": "Castro/Noe Valley",
+		"SU": "Sunset",
+		"BP": "Bayview-Hunters Point",
+		"WP": "West Portal",
+		"LM": "Lake Merced",
+		"TP": "Twin Peaks-Glen Park",
+		"NB": "North Beach/Chinatown",
+		"HV": "Hayes Valley/Tenderloin/North of Market",
+		"SM": "South of Market",
+		"IM": "Inner Mission/Bernal Heights"
+	}
+}
