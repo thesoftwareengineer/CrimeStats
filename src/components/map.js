@@ -1,6 +1,6 @@
 import React from "react"
 import SF from "./../mapSF.json"
-import "./d3.js"
+import "./mexico.js"
 
 const neighborhoods = SF.neighborhoods
 
